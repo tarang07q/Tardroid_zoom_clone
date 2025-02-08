@@ -12,10 +12,15 @@
 ## ⚡ Tech Stack
 
 - **Next.js** - React framework for production-ready applications
+
 - **TypeScript** - Type safety and better developer experience
+
 - **Clerk** - Authentication made easy
+
 - **getstream** - Real-time messaging and notifications
+
 - **shadcn** - UI components for modern design
+
 - **Tailwind CSS** - Utility-first styling for responsive UI
 
 ---
@@ -23,11 +28,17 @@
 ## 🔥 Features
 
 ✅ **User Authentication** – Secure login with Clerk (Google, Email, etc.)
+
 ✅ **Instant & Scheduled Meetings** – Host meetings on the go or schedule for later
+
 ✅ **Real-time Meeting Controls** – Mute, unmute, screen share, reactions, and more
+
 ✅ **Personal Meeting Room** – Each user gets a unique meeting link
+
 ✅ **Meeting History** – Access past meetings and recorded sessions
+
 ✅ **Secure & Scalable** – Built with security and real-time capabilities in mind
+
 ✅ **Fully Responsive** – Works across all devices
 
 ---
